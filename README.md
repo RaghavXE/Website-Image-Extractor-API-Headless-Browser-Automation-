@@ -113,4 +113,4 @@ Sample Response
 ### Built strictly for educational purposes
 
 ## 👤 Author
-Built by Raghav as part of hands-on learning with FastAPI and Playwright.
+Built by **Raghav Soni** as part of hands-on learning with FastAPI and Playwright.
